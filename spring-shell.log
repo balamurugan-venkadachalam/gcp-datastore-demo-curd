@@ -1,0 +1,19 @@
+1586729279836:help
+1586729319509:save-task wakeup early
+1586729326533:save-task "wakeup early"
+1586729336475:list-tasks
+1586729363516:list-tasks test
+1586729383044:exit
+1586729416510:list-tasks
+1586729452261:save-task "brush your teeth"
+1586729480645:save-task "do execise"
+1586729493451:save-task "take breakfast"
+1586729507045:save-task "cut vegitables"
+1586729518979:save-task "clean house"
+1586729527964:save-task "take bath"
+1586729538228:save-task "takecare childrens"
+1586729552219:save-task "dummy"
+1586729563180:list-tasks
+1586729595997:delete-task 5637476211228672
+1586729600810:list-tasks
+1586729743707:exit
